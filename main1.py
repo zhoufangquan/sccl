@@ -96,7 +96,7 @@ def get_args(argv):
 
 if __name__ == '__main__':
     
-    import time
+    import datetime
     
     print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
     print('*'*150)
